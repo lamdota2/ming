@@ -1,2 +1,2 @@
 # ming
-liaoaming
+Fuction some of comman 
